@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "104656405924",
+    "firebase_url": "https://yodependo.firebaseio.com",
+    "project_id": "yodependo",
+    "storage_bucket": "yodependo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104656405924:android:2926a5ac13333e7c77ed31",
+        "android_client_info": {
+          "package_name": "com.yodependo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "104656405924-lp17v0d1noa5eospg6dh06j9kktd14kq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yodependo",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "104656405924-ipaj8l744l6984mln8tg6os1oaqd8v20.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfVt9-6_nSLl64YC_Til7PAH9NQo5z-cg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "104656405924-ipaj8l744l6984mln8tg6os1oaqd8v20.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
