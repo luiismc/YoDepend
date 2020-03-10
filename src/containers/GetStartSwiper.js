@@ -45,6 +45,11 @@ class GetStartSwiper extends React.Component {
                 title: t('getting:text_title_3'),
                 subtitle: t('getting:text_subtitle_3'),
             },
+            {
+                image: require('src/assets/images/getting-start/get4.png'),
+                title: t('getting:text_title_4'),
+                subtitle: t('getting:text_subtitle_4'),
+              },
         ];
         return (
             <>
