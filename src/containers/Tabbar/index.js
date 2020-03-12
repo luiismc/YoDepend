@@ -5,7 +5,7 @@ import {TouchableOpacity, StyleSheet} from 'react-native';
 import {Text, SafeAreaView} from 'src/components';
 import IconTabbar from './IconTabbar';
 
-import {homeTabs} from 'src/config/navigator';
+import {homeTabs, blogStack} from 'src/config/navigator';
 
 import {configsSelector} from 'src/modules/common/selectors';
 
@@ -40,10 +40,10 @@ const Tabbar = (props) => {
       isShow: configs.get('toggleWishlist'),
     },
     {
-      iconName: 'shopping-bag',
-      name: t('common:text_cart'),
+      iconName: 'book',
+      name: t('Blog'),
       nameData: 'cart',
-      router: homeTabs.cart,
+      router: blogStack.blog_list,
       isShow: configs.get('toggleCheckout'),
     },
     {

@@ -38,6 +38,14 @@
             {
               "client_id": "104656405924-ipaj8l744l6984mln8tg6os1oaqd8v20.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "104656405924-8p1kivodgrb6h0qjdg4e7bn86netemo8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.yodependo.app",
+                "app_store_id": "1501437658"
+              }
             }
           ]
         }

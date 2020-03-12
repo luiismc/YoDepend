@@ -8,7 +8,7 @@ import WishList from 'src/screens/wishlist';
 
 import ProfileStack from './profile-stack';
 import CartStack from './cart-stack';
-
+import BlogStack from './blog_stack';
 import Tabbar from 'src/containers/Tabbar';
 
 import { homeTabs } from 'src/config/navigator';
@@ -24,14 +24,8 @@ const Tabs = createBottomTabNavigator(
     [homeTabs.wish_list]: {
       screen: WishList,
     },
-    [homeTabs.cart]: {
-      screen: CartStack,
-      navigationOptions: ({ navigation }) => {
-        const {state: {index}} = navigation
-        return {
-          tabBarVisible: index === 0,
-        }
-      },
+    [homeTabs.blog]: {
+      screen: BlogStack,
     },
     [homeTabs.me]: {
       screen: ProfileStack,
