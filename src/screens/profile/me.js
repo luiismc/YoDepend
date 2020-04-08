@@ -79,23 +79,23 @@ class MeScreen extends Component {
                 onPress={() => this.handleLinkUrl(configs.get('instagram'))}
               />
 
-              <SocialIcon
+              {/* <SocialIcon
                 light
                 raised={false}
                 type="pinterest"
                 style={styles.socialIconStyle}
                 iconSize={15}
                 onPress={() => this.handleLinkUrl(configs.get('pinterest'))}
-              />
+              /> */}
 
-              <SocialIcon
+              {/* <SocialIcon
                 light
                 raised={false}
                 type="twitter"
                 style={styles.socialIconStyle}
                 iconSize={15}
                 onPress={() => this.handleLinkUrl(configs.get('twitter'))}
-              />
+              /> */}
             </View>
             <Text h6 colorThird>{configs.get('copyright')}</Text>
           </Container>

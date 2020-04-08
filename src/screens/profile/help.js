@@ -28,13 +28,13 @@ export default class HelpScreen extends React.Component {
           rightComponent={<CartIcon />}
         />
         <Container>
-          <ListItem
+          {/* <ListItem
             title={t('profile:text_contact')}
             titleProps={titleProps}
             chevron
             type="underline"
             onPress={() => navigation.navigate(profileStack.contact)}
-          />
+          /> */}
           <ListItem
             title={t('profile:text_privacy')}
             titleProps={titleProps}
@@ -47,7 +47,7 @@ export default class HelpScreen extends React.Component {
             titleProps={titleProps}
             chevron
             type="underline"
-            onPress={() => navigation.navigate(profileStack.privacy)}
+            onPress={() => navigation.navigate(profileStack.term)}
           />
           <ListItem
             title={t('profile:text_about')}

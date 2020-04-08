@@ -27,11 +27,29 @@ const Tabbar = (props) => {
       isShow: true,
     },
     {
-      iconName: 'search',
-      name: t('common:text_shop'),
-      router: homeTabs.shop,
+      iconName: 'headphones',
+      name: t('common:text_podcast'),
+      router: homeTabs.podcast,
       isShow: true,
     },
+    {
+      iconName: 'map',
+      name: t('common:text_directorio'),
+      router: homeTabs.centros,
+      isShow: true,
+    },
+        {
+      iconName: 'comment',
+      name: t('common:text_preguntas'),
+      router: homeTabs.preguntas,
+      isShow: true,
+    },
+    // {
+    //   iconName: 'search',
+    //   name: t('common:text_shop'),
+    //   router: homeTabs.shop,
+    //   isShow: true,
+    // },
     {
       iconName: 'heart',
       name: t('common:text_wishList'),

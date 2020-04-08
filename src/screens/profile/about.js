@@ -28,19 +28,38 @@ export default class ContactScreen extends React.Component {
         />
         <ScrollView>
           <Container>
-            <Text h2 medium>
-              {t('common:text_about')}
-            </Text>
-            <Text h2 style={styles.textName(theme.AboutUsScreen.titleColor)}>
+
+            <Text h2 medium style={styles.textName(/*theme.AboutUsScreen.titleColor*/)}>
               {t('profile:text_name_about')}
             </Text>
             <View style={styles.viewImage}>
-              <Image source={image} resizeMode="stretch" />
+              {/* <Image source={image} resizeMode="stretch" /> */}
               <Text style={{ color: theme.AboutUsScreen.researchColor }}>{t('profile:text_research')}</Text>
               <Image source={require('src/assets/images/ux.png')} resizeMode="stretch" />
             </View>
+            <Text h2 medium style={styles.textName(/*theme.AboutUsScreen.titleColor*/)}>
+              {t('common:text_about5')}
+            </Text>
             <Text style={styles.description} colorSecondary>
               {t('profile:text_about_description')}
+            </Text>
+            <Text h2 medium style={styles.textName(/*theme.AboutUsScreen.titleColor*/)}>
+              {t('profile:text_name_about2')}
+            </Text>
+            <Text style={styles.description} colorSecondary>
+              {t('profile:text_about_description2')}
+            </Text>
+            <Text h2 medium style={styles.textName(/*theme.AboutUsScreen.titleColor*/)}>
+              {t('profile:text_name_about3')}
+            </Text>
+            <Text style={styles.description} colorSecondary>
+              {t('profile:text_about_description3')}
+            </Text>
+            <Text h2 medium style={styles.textName(/*theme.AboutUsScreen.titleColor*/)}>
+              {t('profile:text_name_about4')}
+            </Text>
+            <Text style={styles.description} colorSecondary>
+              {t('profile:text_about_description4')}
             </Text>
           </Container>
         </ScrollView>
@@ -56,15 +75,17 @@ const styles = {
   textName: color => ({
     color: color,
     marginBottom: margin.big,
+    textAlign: "center",
   }),
   viewImage: {
     flexDirection: 'row',
-    justifyContent: 'space-between',
+    justifyContent: 'center',
     alignItems: 'center',
     marginBottom: margin.big,
   },
   description: {
     marginVertical: margin.base,
     lineHeight: lineHeights.h4,
+    textAlign: "justify",
   },
 };

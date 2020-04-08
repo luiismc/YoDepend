@@ -37,7 +37,7 @@ const SettingMe = ({isLogin, phonenumber, clickPage, goPhone, handleSignOut}) =>
       />
       <ListItem
         leftIcon={icon(2)}
-        title={t('profile:text_hotline')}
+        title={t('profile:text_hotmail')}
         rightElement={<Text colorThird style={styles.phone}>{phonenumber}</Text>}
         type="underline"
         titleProps={titleProps}

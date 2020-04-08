@@ -6,6 +6,7 @@ import MeScreen from 'src/screens/profile/me';
 import SettingScreen from 'src/screens/profile/setting';
 import HelpScreen from 'src/screens/profile/help';
 import PrivacyScreen from 'src/screens/profile/privacy';
+import TermScreen from 'src/screens/profile/term';
 import ContactScreen from 'src/screens/profile/contact';
 import AboutScreen from 'src/screens/profile/about';
 import AccountScreen from 'src/screens/profile/account';
@@ -26,6 +27,7 @@ export default createStackNavigator(
     [profileStack.setting]: SettingScreen,
     [profileStack.help]: HelpScreen,
     [profileStack.privacy]: PrivacyScreen,
+    [profileStack.term]: TermScreen,
     [profileStack.contact]: ContactScreen,
     [profileStack.about]: AboutScreen,
     [profileStack.account]: AccountScreen,

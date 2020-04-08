@@ -18,6 +18,9 @@ export const homeTabs = {
   wish_list: 'WishListStack',
   blog: 'BlogStack',
   me: 'ProfileStack',
+  podcast: 'PodcastScreen',
+  centros: 'CentrosScreen',
+  preguntas: 'PreguntasScreen',
 };
 
 export const mainStack = {
@@ -67,6 +70,7 @@ export const profileStack = {
   setting: 'SettingScreen',
   help: 'HelpScreen',
   privacy: 'PrivacyScreen',
+  term: 'TermScreen',
   contact: 'ContactScreen',
   about: 'AboutScreen',
   account: 'AccountScreen',

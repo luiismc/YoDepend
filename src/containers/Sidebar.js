@@ -31,15 +31,20 @@ const dataHelpInfo = [
     name: 'common:text_about',
     router: profileStack.about,
   },
-  {
-    id: '4',
-    name: 'common:text_contact',
-    router: profileStack.contact,
-  },
+  // {
+  //   id: '4',
+  //   name: 'common:text_contact',
+  //   router: profileStack.contact,
+  // },
   {
     id: '5',
     name: 'common:text_privacy_full',
     router: profileStack.privacy,
+  },
+  {
+    id: '6',
+    name: 'common:text_term',
+    router: profileStack.term,
   },
 ];
 
