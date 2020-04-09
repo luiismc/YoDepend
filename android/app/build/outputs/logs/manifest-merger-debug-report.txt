@@ -1,0 +1,987 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\documentos2\Git\YoDepend\android\app\src\main\AndroidManifest.xml:1:1-41:12
+INJECTED from D:\documentos2\Git\YoDepend\android\app\src\main\AndroidManifest.xml:1:1-41:12
+INJECTED from D:\documentos2\Git\YoDepend\android\app\src\main\AndroidManifest.xml:1:1-41:12
+INJECTED from D:\documentos2\Git\YoDepend\android\app\src\main\AndroidManifest.xml:1:1-41:12
+MERGED from D:\documentos2\Git\YoDepend\android\app\src\main\AndroidManifest.xml:1:1-41:12
+MERGED from [:@react-native-firebase_auth] D:\documentos2\Git\YoDepend\node_modules\@react-native-firebase\auth\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-15:12
+MERGED from [:@react-native-firebase_app] D:\documentos2\Git\YoDepend\node_modules\@react-native-firebase\app\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\0e39136b95f89ec45312d78a896a2e58\multidex-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:@react-native-community_async-storage] D:\documentos2\Git\YoDepend\node_modules\@react-native-community\async-storage\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:@react-native-community_google-signin] D:\documentos2\Git\YoDepend\node_modules\@react-native-community\google-signin\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:@react-native-community_netinfo] D:\documentos2\Git\YoDepend\node_modules\@react-native-community\netinfo\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-12:12
+MERGED from [:react-native-fbsdk] D:\documentos2\Git\YoDepend\node_modules\react-native-fbsdk\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:21:1-30:12
+MERGED from [:react-native-gesture-handler] D:\documentos2\Git\YoDepend\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-onesignal] D:\documentos2\Git\YoDepend\node_modules\react-native-onesignal\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-reanimated] D:\documentos2\Git\YoDepend\node_modules\react-native-reanimated\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-restart] D:\documentos2\Git\YoDepend\node_modules\react-native-restart\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-safe-area-context] D:\documentos2\Git\YoDepend\node_modules\react-native-safe-area-context\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-screens] D:\documentos2\Git\YoDepend\node_modules\react-native-screens\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-splash-screen] D:\documentos2\Git\YoDepend\node_modules\react-native-splash-screen\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-14:12
+MERGED from [:react-native-vector-icons] D:\documentos2\Git\YoDepend\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-video] D:\documentos2\Git\YoDepend\node_modules\react-native-video\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-webview] D:\documentos2\Git\YoDepend\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-23:12
+MERGED from [com.facebook.react:react-native:0.61.5] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\88f7ea1ec4c2bd94e5c827de0cdac2ef\jetified-react-native-0.61.5\AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.android:facebook-login:5.15.3] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\0caf75b4f3c8a5d1f183a5bfa6dceeaa\jetified-facebook-login-5.15.3\AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-share:5.15.3] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\f5776444650decf4865e0ce6c8651cea\jetified-facebook-share-5.15.3\AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-common:5.15.3] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\09593e23d374d85455604c933a0b501f\jetified-facebook-common-5.15.3\AndroidManifest.xml:21:1-52:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\7c8ea6c4de944f07ff3eb0b1fd3ea09e\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.onesignal:OneSignal:3.12.5] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\3c0861acda4d6f51fc05ce5106e9827c\jetified-OneSignal-3.12.5\AndroidManifest.xml:2:1-106:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\2e1d96b61d0d6c40984ce9ff33dfdf9e\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\683c5b8c0f79d9ed78d639bfa8e7f3f1\browser-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\6108758e4e563cc5daf77399efd5f771\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0-alpha02] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\d6d4542205073129d9619bd7039ebe77\swiperefreshlayout-1.1.0-alpha02\AndroidManifest.xml:17:1-24:12
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\5dfe1c014756b4180a87be9112050150\jetified-android-jsc-r245459\AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\b8a84d3b28c298b61be17932167c90cb\jetified-fresco-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\c26f7039b788a5e75de4f6a03174b4dd\jetified-imagepipeline-okhttp3-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\ec3e8d034bfe7034216d452584bba999\jetified-drawee-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\8d92b9f36935f96af116eb428bac0bad\jetified-nativeimagefilters-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\b0667bed41ea98264781050881953d18\jetified-imagepipeline-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\c4f8b73161248c417d08d3e1f97798f9\jetified-nativeimagetranscoder-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\cdc721874eba081f1a6f40f32ca0a695\jetified-imagepipeline-base-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\8856c11dcbf7ec981d13ca0448a35bce\jetified-soloader-0.6.0\AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\819cc7e09f6444dd20887671ceeff5a5\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\0a96ccacd83ef57b384579b91131b502\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\e21fbc3bb303474eb9cd3fb2d5fe27ab\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.1.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\b1e592b267969a8b2c23e7616289b47d\transition-1.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\960c5ec4ecfbb065c030eb0f6afd3350\jetified-play-services-auth-17.0.0\AndroidManifest.xml:17:1-39:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\063724d048fce328eec950c13a6b4945\jetified-play-services-auth-api-phone-17.0.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\a78cd121f27a36cf08d7e8e4215b85c6\jetified-play-services-auth-base-17.0.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-auth:19.1.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\e46d47395917dc0704da2fa7de7be917\jetified-firebase-auth-19.1.0\AndroidManifest.xml:17:1-42:12
+MERGED from [com.google.android.gms:play-services-location:15.0.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\95c182ad97387117824ecbc6e222366d\jetified-play-services-location-15.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-messaging:20.0.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\d3fae0810aa068b2e1d0e25ad79c0894\jetified-firebase-messaging-20.0.1\AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\a0cc0041367d02a7abd90d79e75c64bd\jetified-firebase-auth-interop-18.0.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-core:17.2.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\a098f7b9e1d6ddcbdd59fad34c969568\jetified-firebase-core-17.2.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-analytics:17.2.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\e2959cd1ed4778a2036a7f4765d6e4d3\jetified-firebase-analytics-17.2.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\b45f5acd6c9c6e2090a64f7c846708a0\jetified-play-services-measurement-api-17.2.1\AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.firebase:firebase-iid:20.0.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\f2794ab560af19d3b55d22cd0adc574b\jetified-firebase-iid-20.0.1\AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\ae47015a2e4aba120729f3d9634167eb\jetified-firebase-iid-interop-17.0.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\ed3502c450364bc84887a8ec2548cdfb\jetified-play-services-base-17.1.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:19.2.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\cc72197cb83e4adcd7d8d0b2b076c6c1\jetified-firebase-common-19.2.0\AndroidManifest.xml:2:1-26:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\d3bf3a1c30f65af0e34f97891da0ef60\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\38c6dd8f1a46165fbe7184a4069c9c1b\jetified-play-services-places-placereport-15.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\06cd6cb6b50d53b568e50b92d1c91c11\jetified-firebase-measurement-connector-18.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\5492155b9c669fe5085f08e44463cbb8\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\bebb86a540b79d2abbe56bba3d9c837c\jetified-play-services-measurement-sdk-17.2.1\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\42e35f8fda90bec235947c3aeedaf8b4\jetified-play-services-measurement-impl-17.2.1\AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\51b249292cd9be39d99ca5bcc3280966\jetified-play-services-stats-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\b10133063e45ca5c1ae025ee87529e00\jetified-play-services-measurement-sdk-api-17.2.1\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\7a42dbea86ef44b63f91580ab962ea35\jetified-play-services-measurement-base-17.2.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\5e95c4fec77aca378a06beddb04866d7\jetified-play-services-ads-identifier-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\e949ecdb5e7797625d085bcf76965b03\jetified-play-services-basement-17.0.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\bc4ee94a095795a89c7d60010c54243f\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\50186ee8f2980bae9a5688b37a10b28d\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.android:facebook-core:5.15.3] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\8ef3121320128ee0c98eeb14afcf7413\jetified-facebook-core-5.15.3\AndroidManifest.xml:21:1-53:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\00f8f3ac4cff477825623c16d2141a2b\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\c252f288fb6c9b3c5c42a50fd7a6f2c0\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\2bc275a6fadce3206523ec7bb8b2fc33\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\128e6b4b24fd0e06e6f992a87056f280\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\e08ee0974742b7d7341fe0729617f16a\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\f83f229b459c6503c8f409a6bd829d72\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\e67737094954067c5cc2920970d9348f\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\c0ca7360b05c2e67f9d078f3e8055cc9\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\199d07d70a1f043ec71b1b1da86d5f15\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\97dd23b9dfa7eaa28bd6529f19a39564\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.0-beta01] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\e943c028c65c58c73d497d9b40bd01b3\core-1.3.0-beta01\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\799f5191d034fa788883b4169b9a1c04\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\f42ca2f21be3e184fd93b3de2c6cafa3\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\e092ce1a9ae5c9a701252fd183ec39b7\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\3c7e4399e112e13187c0d082c31b6f1f\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\177b3489fdc89247aaa2446c4d006309\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\9ebf1b4e87332250004e328b2a97ab08\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\72133d0160fd1f5ca5a39f11c524d082\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\d0d3cded714ac9bc3cbd046568664fcd\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\28f7e396efe6d3de42b1a3a640a76551\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\8bf2f12de099ce6488834c0351128d52\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\f62edf6b30025870309420d743344b52\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\254f4f53d13320bf8e163af1f23ba689\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.yqritc:android-scalablevideoview:1.0.4] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\756ef159987a9849c6b5053d058a7eb5\jetified-android-scalablevideoview-1.0.4\AndroidManifest.xml:2:1-12:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\7ffc7b91f1a7252f3b598593a12934c3\jetified-fbcore-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.installreferrer:installreferrer:1.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\64364f815434e55f9373b0df795a7bab\jetified-installreferrer-1.0\AndroidManifest.xml:2:1-13:12
+INJECTED from D:\documentos2\Git\YoDepend\android\app\src\debug\AndroidManifest.xml:2:1-8:12
+INJECTED from D:\documentos2\Git\YoDepend\android\app\src\debug\AndroidManifest.xml:2:1-8:12
+INJECTED from D:\documentos2\Git\YoDepend\android\app\src\debug\AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from D:\documentos2\Git\YoDepend\android\app\src\main\AndroidManifest.xml:2:11-34
+		INJECTED from D:\documentos2\Git\YoDepend\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\documentos2\Git\YoDepend\android\app\src\main\AndroidManifest.xml:2:11-34
+		INJECTED from D:\documentos2\Git\YoDepend\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\documentos2\Git\YoDepend\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\documentos2\Git\YoDepend\android\app\src\main\AndroidManifest.xml:1:1-41:12
+		INJECTED from D:\documentos2\Git\YoDepend\android\app\src\debug\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\documentos2\Git\YoDepend\android\app\src\debug\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from D:\documentos2\Git\YoDepend\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\documentos2\Git\YoDepend\android\app\src\main\AndroidManifest.xml:1:1-41:12
+		INJECTED from D:\documentos2\Git\YoDepend\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\documentos2\Git\YoDepend\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\documentos2\Git\YoDepend\android\app\src\main\AndroidManifest.xml:4:5-66
+MERGED from [:@react-native-firebase_auth] D:\documentos2\Git\YoDepend\node_modules\@react-native-firebase\auth\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-67
+MERGED from [:@react-native-firebase_auth] D:\documentos2\Git\YoDepend\node_modules\@react-native-firebase\auth\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-67
+MERGED from [com.onesignal:OneSignal:3.12.5] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\3c0861acda4d6f51fc05ce5106e9827c\jetified-OneSignal-3.12.5\AndroidManifest.xml:16:5-67
+MERGED from [com.onesignal:OneSignal:3.12.5] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\3c0861acda4d6f51fc05ce5106e9827c\jetified-OneSignal-3.12.5\AndroidManifest.xml:16:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\b45f5acd6c9c6e2090a64f7c846708a0\jetified-play-services-measurement-api-17.2.1\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\b45f5acd6c9c6e2090a64f7c846708a0\jetified-play-services-measurement-api-17.2.1\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:20.0.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\f2794ab560af19d3b55d22cd0adc574b\jetified-firebase-iid-20.0.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:20.0.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\f2794ab560af19d3b55d22cd0adc574b\jetified-firebase-iid-20.0.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\5492155b9c669fe5085f08e44463cbb8\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\5492155b9c669fe5085f08e44463cbb8\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\42e35f8fda90bec235947c3aeedaf8b4\jetified-play-services-measurement-impl-17.2.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\42e35f8fda90bec235947c3aeedaf8b4\jetified-play-services-measurement-impl-17.2.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\b10133063e45ca5c1ae025ee87529e00\jetified-play-services-measurement-sdk-api-17.2.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\b10133063e45ca5c1ae025ee87529e00\jetified-play-services-measurement-sdk-api-17.2.1\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from D:\documentos2\Git\YoDepend\android\app\src\main\AndroidManifest.xml:4:22-64
+application
+ADDED from D:\documentos2\Git\YoDepend\android\app\src\main\AndroidManifest.xml:6:5-39:19
+MERGED from D:\documentos2\Git\YoDepend\android\app\src\main\AndroidManifest.xml:6:5-39:19
+MERGED from D:\documentos2\Git\YoDepend\android\app\src\main\AndroidManifest.xml:6:5-39:19
+MERGED from [:react-native-fbsdk] D:\documentos2\Git\YoDepend\node_modules\react-native-fbsdk\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:28:5-20
+MERGED from [:react-native-fbsdk] D:\documentos2\Git\YoDepend\node_modules\react-native-fbsdk\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:28:5-20
+MERGED from [:react-native-splash-screen] D:\documentos2\Git\YoDepend\node_modules\react-native-splash-screen\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-12:19
+MERGED from [:react-native-splash-screen] D:\documentos2\Git\YoDepend\node_modules\react-native-splash-screen\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-12:19
+MERGED from [:react-native-webview] D:\documentos2\Git\YoDepend\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-21:19
+MERGED from [:react-native-webview] D:\documentos2\Git\YoDepend\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-21:19
+MERGED from [com.facebook.react:react-native:0.61.5] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\88f7ea1ec4c2bd94e5c827de0cdac2ef\jetified-react-native-0.61.5\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.5] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\88f7ea1ec4c2bd94e5c827de0cdac2ef\jetified-react-native-0.61.5\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.android:facebook-login:5.15.3] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\0caf75b4f3c8a5d1f183a5bfa6dceeaa\jetified-facebook-login-5.15.3\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-login:5.15.3] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\0caf75b4f3c8a5d1f183a5bfa6dceeaa\jetified-facebook-login-5.15.3\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:5.15.3] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\f5776444650decf4865e0ce6c8651cea\jetified-facebook-share-5.15.3\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:5.15.3] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\f5776444650decf4865e0ce6c8651cea\jetified-facebook-share-5.15.3\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-common:5.15.3] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\09593e23d374d85455604c933a0b501f\jetified-facebook-common-5.15.3\AndroidManifest.xml:29:5-50:19
+MERGED from [com.facebook.android:facebook-common:5.15.3] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\09593e23d374d85455604c933a0b501f\jetified-facebook-common-5.15.3\AndroidManifest.xml:29:5-50:19
+MERGED from [com.onesignal:OneSignal:3.12.5] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\3c0861acda4d6f51fc05ce5106e9827c\jetified-OneSignal-3.12.5\AndroidManifest.xml:48:5-104:19
+MERGED from [com.onesignal:OneSignal:3.12.5] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\3c0861acda4d6f51fc05ce5106e9827c\jetified-OneSignal-3.12.5\AndroidManifest.xml:48:5-104:19
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\8856c11dcbf7ec981d13ca0448a35bce\jetified-soloader-0.6.0\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\8856c11dcbf7ec981d13ca0448a35bce\jetified-soloader-0.6.0\AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\960c5ec4ecfbb065c030eb0f6afd3350\jetified-play-services-auth-17.0.0\AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\960c5ec4ecfbb065c030eb0f6afd3350\jetified-play-services-auth-17.0.0\AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.firebase:firebase-auth:19.1.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\e46d47395917dc0704da2fa7de7be917\jetified-firebase-auth-19.1.0\AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-auth:19.1.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\e46d47395917dc0704da2fa7de7be917\jetified-firebase-auth-19.1.0\AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.android.gms:play-services-location:15.0.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\95c182ad97387117824ecbc6e222366d\jetified-play-services-location-15.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:15.0.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\95c182ad97387117824ecbc6e222366d\jetified-play-services-location-15.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-messaging:20.0.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\d3fae0810aa068b2e1d0e25ad79c0894\jetified-firebase-messaging-20.0.1\AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-messaging:20.0.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\d3fae0810aa068b2e1d0e25ad79c0894\jetified-firebase-messaging-20.0.1\AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\a0cc0041367d02a7abd90d79e75c64bd\jetified-firebase-auth-interop-18.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\a0cc0041367d02a7abd90d79e75c64bd\jetified-firebase-auth-interop-18.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-core:17.2.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\a098f7b9e1d6ddcbdd59fad34c969568\jetified-firebase-core-17.2.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:17.2.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\a098f7b9e1d6ddcbdd59fad34c969568\jetified-firebase-core-17.2.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:17.2.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\e2959cd1ed4778a2036a7f4765d6e4d3\jetified-firebase-analytics-17.2.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:17.2.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\e2959cd1ed4778a2036a7f4765d6e4d3\jetified-firebase-analytics-17.2.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\b45f5acd6c9c6e2090a64f7c846708a0\jetified-play-services-measurement-api-17.2.1\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\b45f5acd6c9c6e2090a64f7c846708a0\jetified-play-services-measurement-api-17.2.1\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.firebase:firebase-iid:20.0.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\f2794ab560af19d3b55d22cd0adc574b\jetified-firebase-iid-20.0.1\AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid:20.0.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\f2794ab560af19d3b55d22cd0adc574b\jetified-firebase-iid-20.0.1\AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\ae47015a2e4aba120729f3d9634167eb\jetified-firebase-iid-interop-17.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\ae47015a2e4aba120729f3d9634167eb\jetified-firebase-iid-interop-17.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\ed3502c450364bc84887a8ec2548cdfb\jetified-play-services-base-17.1.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\ed3502c450364bc84887a8ec2548cdfb\jetified-play-services-base-17.1.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:19.2.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\cc72197cb83e4adcd7d8d0b2b076c6c1\jetified-firebase-common-19.2.0\AndroidManifest.xml:12:5-24:19
+MERGED from [com.google.firebase:firebase-common:19.2.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\cc72197cb83e4adcd7d8d0b2b076c6c1\jetified-firebase-common-19.2.0\AndroidManifest.xml:12:5-24:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\d3bf3a1c30f65af0e34f97891da0ef60\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\d3bf3a1c30f65af0e34f97891da0ef60\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\38c6dd8f1a46165fbe7184a4069c9c1b\jetified-play-services-places-placereport-15.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\38c6dd8f1a46165fbe7184a4069c9c1b\jetified-play-services-places-placereport-15.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\06cd6cb6b50d53b568e50b92d1c91c11\jetified-firebase-measurement-connector-18.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\06cd6cb6b50d53b568e50b92d1c91c11\jetified-firebase-measurement-connector-18.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\5492155b9c669fe5085f08e44463cbb8\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\5492155b9c669fe5085f08e44463cbb8\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\bebb86a540b79d2abbe56bba3d9c837c\jetified-play-services-measurement-sdk-17.2.1\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\bebb86a540b79d2abbe56bba3d9c837c\jetified-play-services-measurement-sdk-17.2.1\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\42e35f8fda90bec235947c3aeedaf8b4\jetified-play-services-measurement-impl-17.2.1\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\42e35f8fda90bec235947c3aeedaf8b4\jetified-play-services-measurement-impl-17.2.1\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\51b249292cd9be39d99ca5bcc3280966\jetified-play-services-stats-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\51b249292cd9be39d99ca5bcc3280966\jetified-play-services-stats-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\7a42dbea86ef44b63f91580ab962ea35\jetified-play-services-measurement-base-17.2.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\7a42dbea86ef44b63f91580ab962ea35\jetified-play-services-measurement-base-17.2.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\5e95c4fec77aca378a06beddb04866d7\jetified-play-services-ads-identifier-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\5e95c4fec77aca378a06beddb04866d7\jetified-play-services-ads-identifier-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\e949ecdb5e7797625d085bcf76965b03\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\e949ecdb5e7797625d085bcf76965b03\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.facebook.android:facebook-core:5.15.3] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\8ef3121320128ee0c98eeb14afcf7413\jetified-facebook-core-5.15.3\AndroidManifest.xml:28:5-51:19
+MERGED from [com.facebook.android:facebook-core:5.15.3] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\8ef3121320128ee0c98eeb14afcf7413\jetified-facebook-core-5.15.3\AndroidManifest.xml:28:5-51:19
+MERGED from [androidx.core:core:1.3.0-beta01] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\e943c028c65c58c73d497d9b40bd01b3\core-1.3.0-beta01\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.0-beta01] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\e943c028c65c58c73d497d9b40bd01b3\core-1.3.0-beta01\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\f42ca2f21be3e184fd93b3de2c6cafa3\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\f42ca2f21be3e184fd93b3de2c6cafa3\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [com.android.installreferrer:installreferrer:1.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\64364f815434e55f9373b0df795a7bab\jetified-installreferrer-1.0\AndroidManifest.xml:11:5-20
+MERGED from [com.android.installreferrer:installreferrer:1.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\64364f815434e55f9373b0df795a7bab\jetified-installreferrer-1.0\AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.0-beta01] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\e943c028c65c58c73d497d9b40bd01b3\core-1.3.0-beta01\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from [com.facebook.android:facebook-login:5.15.3] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\0caf75b4f3c8a5d1f183a5bfa6dceeaa\jetified-facebook-login-5.15.3\AndroidManifest.xml:28:18-44
+	android:label
+		ADDED from D:\documentos2\Git\YoDepend\android\app\src\main\AndroidManifest.xml:8:13-45
+		ADDED from D:\documentos2\Git\YoDepend\android\app\src\main\AndroidManifest.xml:8:13-45
+	tools:ignore
+		ADDED from D:\documentos2\Git\YoDepend\android\app\src\debug\AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from D:\documentos2\Git\YoDepend\android\app\src\main\AndroidManifest.xml:10:13-58
+		ADDED from D:\documentos2\Git\YoDepend\android\app\src\main\AndroidManifest.xml:10:13-58
+	tools:targetApi
+		ADDED from D:\documentos2\Git\YoDepend\android\app\src\debug\AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from D:\documentos2\Git\YoDepend\android\app\src\main\AndroidManifest.xml:9:13-47
+		ADDED from D:\documentos2\Git\YoDepend\android\app\src\main\AndroidManifest.xml:9:13-47
+	android:allowBackup
+		ADDED from D:\documentos2\Git\YoDepend\android\app\src\main\AndroidManifest.xml:11:13-40
+		ADDED from D:\documentos2\Git\YoDepend\android\app\src\main\AndroidManifest.xml:11:13-40
+	android:theme
+		ADDED from D:\documentos2\Git\YoDepend\android\app\src\main\AndroidManifest.xml:12:13-44
+		ADDED from D:\documentos2\Git\YoDepend\android\app\src\main\AndroidManifest.xml:12:13-44
+	android:usesCleartextTraffic
+		ADDED from D:\documentos2\Git\YoDepend\android\app\src\debug\AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from D:\documentos2\Git\YoDepend\android\app\src\main\AndroidManifest.xml:7:13-44
+		ADDED from D:\documentos2\Git\YoDepend\android\app\src\main\AndroidManifest.xml:7:13-44
+activity#com.yodependo.SplashActivity
+ADDED from D:\documentos2\Git\YoDepend\android\app\src\main\AndroidManifest.xml:14:9-22:20
+	android:label
+		ADDED from D:\documentos2\Git\YoDepend\android\app\src\main\AndroidManifest.xml:17:17-49
+	android:theme
+		ADDED from D:\documentos2\Git\YoDepend\android\app\src\main\AndroidManifest.xml:16:17-51
+	android:name
+		ADDED from D:\documentos2\Git\YoDepend\android\app\src\main\AndroidManifest.xml:15:17-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\documentos2\Git\YoDepend\android\app\src\main\AndroidManifest.xml:18:13-21:29
+action#android.intent.action.MAIN
+ADDED from D:\documentos2\Git\YoDepend\android\app\src\main\AndroidManifest.xml:19:17-68
+	android:name
+		ADDED from D:\documentos2\Git\YoDepend\android\app\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\documentos2\Git\YoDepend\android\app\src\main\AndroidManifest.xml:20:17-76
+	android:name
+		ADDED from D:\documentos2\Git\YoDepend\android\app\src\main\AndroidManifest.xml:20:27-74
+activity#com.yodependo.MainActivity
+ADDED from D:\documentos2\Git\YoDepend\android\app\src\main\AndroidManifest.xml:24:9-32:11
+	android:screenOrientation
+		ADDED from D:\documentos2\Git\YoDepend\android\app\src\main\AndroidManifest.xml:27:17-53
+	android:label
+		ADDED from D:\documentos2\Git\YoDepend\android\app\src\main\AndroidManifest.xml:26:17-49
+	android:launchMode
+		ADDED from D:\documentos2\Git\YoDepend\android\app\src\main\AndroidManifest.xml:29:17-47
+	android:windowSoftInputMode
+		ADDED from D:\documentos2\Git\YoDepend\android\app\src\main\AndroidManifest.xml:30:17-59
+	android:exported
+		ADDED from D:\documentos2\Git\YoDepend\android\app\src\main\AndroidManifest.xml:31:17-40
+	android:configChanges
+		ADDED from D:\documentos2\Git\YoDepend\android\app\src\main\AndroidManifest.xml:28:17-87
+	android:name
+		ADDED from D:\documentos2\Git\YoDepend\android\app\src\main\AndroidManifest.xml:25:17-45
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from D:\documentos2\Git\YoDepend\android\app\src\main\AndroidManifest.xml:34:9-85
+	android:name
+		ADDED from D:\documentos2\Git\YoDepend\android\app\src\main\AndroidManifest.xml:34:19-83
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from D:\documentos2\Git\YoDepend\android\app\src\main\AndroidManifest.xml:35:9-107
+	android:value
+		ADDED from D:\documentos2\Git\YoDepend\android\app\src\main\AndroidManifest.xml:35:66-105
+	android:name
+		ADDED from D:\documentos2\Git\YoDepend\android\app\src\main\AndroidManifest.xml:35:20-65
+meta-data#com.google.android.geo.API_KEY
+ADDED from D:\documentos2\Git\YoDepend\android\app\src\main\AndroidManifest.xml:36:9-38:74
+	android:value
+		ADDED from D:\documentos2\Git\YoDepend\android\app\src\main\AndroidManifest.xml:38:17-72
+	android:name
+		ADDED from D:\documentos2\Git\YoDepend\android\app\src\main\AndroidManifest.xml:37:17-62
+uses-sdk
+INJECTED from D:\documentos2\Git\YoDepend\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\documentos2\Git\YoDepend\android\app\src\main\AndroidManifest.xml
+INJECTED from D:\documentos2\Git\YoDepend\android\app\src\main\AndroidManifest.xml
+MERGED from [:@react-native-firebase_auth] D:\documentos2\Git\YoDepend\node_modules\@react-native-firebase\auth\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:@react-native-firebase_auth] D:\documentos2\Git\YoDepend\node_modules\@react-native-firebase\auth\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:@react-native-firebase_app] D:\documentos2\Git\YoDepend\node_modules\@react-native-firebase\app\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:@react-native-firebase_app] D:\documentos2\Git\YoDepend\node_modules\@react-native-firebase\app\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\0e39136b95f89ec45312d78a896a2e58\multidex-2.0.0\AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\0e39136b95f89ec45312d78a896a2e58\multidex-2.0.0\AndroidManifest.xml:20:5-43
+MERGED from [:@react-native-community_async-storage] D:\documentos2\Git\YoDepend\node_modules\@react-native-community\async-storage\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_async-storage] D:\documentos2\Git\YoDepend\node_modules\@react-native-community\async-storage\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_google-signin] D:\documentos2\Git\YoDepend\node_modules\@react-native-community\google-signin\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:@react-native-community_google-signin] D:\documentos2\Git\YoDepend\node_modules\@react-native-community\google-signin\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:@react-native-community_netinfo] D:\documentos2\Git\YoDepend\node_modules\@react-native-community\netinfo\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_netinfo] D:\documentos2\Git\YoDepend\node_modules\@react-native-community\netinfo\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-fbsdk] D:\documentos2\Git\YoDepend\node_modules\react-native-fbsdk\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:24:5-26:41
+MERGED from [:react-native-fbsdk] D:\documentos2\Git\YoDepend\node_modules\react-native-fbsdk\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:24:5-26:41
+MERGED from [:react-native-gesture-handler] D:\documentos2\Git\YoDepend\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] D:\documentos2\Git\YoDepend\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-onesignal] D:\documentos2\Git\YoDepend\node_modules\react-native-onesignal\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-onesignal] D:\documentos2\Git\YoDepend\node_modules\react-native-onesignal\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-reanimated] D:\documentos2\Git\YoDepend\node_modules\react-native-reanimated\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] D:\documentos2\Git\YoDepend\node_modules\react-native-reanimated\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-restart] D:\documentos2\Git\YoDepend\node_modules\react-native-restart\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-restart] D:\documentos2\Git\YoDepend\node_modules\react-native-restart\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-safe-area-context] D:\documentos2\Git\YoDepend\node_modules\react-native-safe-area-context\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] D:\documentos2\Git\YoDepend\node_modules\react-native-safe-area-context\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] D:\documentos2\Git\YoDepend\node_modules\react-native-screens\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] D:\documentos2\Git\YoDepend\node_modules\react-native-screens\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-splash-screen] D:\documentos2\Git\YoDepend\node_modules\react-native-splash-screen\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-splash-screen] D:\documentos2\Git\YoDepend\node_modules\react-native-splash-screen\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] D:\documentos2\Git\YoDepend\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] D:\documentos2\Git\YoDepend\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-video] D:\documentos2\Git\YoDepend\node_modules\react-native-video\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-video] D:\documentos2\Git\YoDepend\node_modules\react-native-video\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-webview] D:\documentos2\Git\YoDepend\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-webview] D:\documentos2\Git\YoDepend\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\88f7ea1ec4c2bd94e5c827de0cdac2ef\jetified-react-native-0.61.5\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\88f7ea1ec4c2bd94e5c827de0cdac2ef\jetified-react-native-0.61.5\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.android:facebook-login:5.15.3] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\0caf75b4f3c8a5d1f183a5bfa6dceeaa\jetified-facebook-login-5.15.3\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-login:5.15.3] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\0caf75b4f3c8a5d1f183a5bfa6dceeaa\jetified-facebook-login-5.15.3\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:5.15.3] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\f5776444650decf4865e0ce6c8651cea\jetified-facebook-share-5.15.3\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:5.15.3] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\f5776444650decf4865e0ce6c8651cea\jetified-facebook-share-5.15.3\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:5.15.3] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\09593e23d374d85455604c933a0b501f\jetified-facebook-common-5.15.3\AndroidManifest.xml:25:5-27:41
+MERGED from [com.facebook.android:facebook-common:5.15.3] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\09593e23d374d85455604c933a0b501f\jetified-facebook-common-5.15.3\AndroidManifest.xml:25:5-27:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\7c8ea6c4de944f07ff3eb0b1fd3ea09e\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\7c8ea6c4de944f07ff3eb0b1fd3ea09e\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.onesignal:OneSignal:3.12.5] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\3c0861acda4d6f51fc05ce5106e9827c\jetified-OneSignal-3.12.5\AndroidManifest.xml:4:5-44
+MERGED from [com.onesignal:OneSignal:3.12.5] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\3c0861acda4d6f51fc05ce5106e9827c\jetified-OneSignal-3.12.5\AndroidManifest.xml:4:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\2e1d96b61d0d6c40984ce9ff33dfdf9e\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\2e1d96b61d0d6c40984ce9ff33dfdf9e\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\683c5b8c0f79d9ed78d639bfa8e7f3f1\browser-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\683c5b8c0f79d9ed78d639bfa8e7f3f1\browser-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\6108758e4e563cc5daf77399efd5f771\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\6108758e4e563cc5daf77399efd5f771\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0-alpha02] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\d6d4542205073129d9619bd7039ebe77\swiperefreshlayout-1.1.0-alpha02\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0-alpha02] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\d6d4542205073129d9619bd7039ebe77\swiperefreshlayout-1.1.0-alpha02\AndroidManifest.xml:20:5-22:41
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\5dfe1c014756b4180a87be9112050150\jetified-android-jsc-r245459\AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\5dfe1c014756b4180a87be9112050150\jetified-android-jsc-r245459\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\b8a84d3b28c298b61be17932167c90cb\jetified-fresco-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\b8a84d3b28c298b61be17932167c90cb\jetified-fresco-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\c26f7039b788a5e75de4f6a03174b4dd\jetified-imagepipeline-okhttp3-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\c26f7039b788a5e75de4f6a03174b4dd\jetified-imagepipeline-okhttp3-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\ec3e8d034bfe7034216d452584bba999\jetified-drawee-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\ec3e8d034bfe7034216d452584bba999\jetified-drawee-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\8d92b9f36935f96af116eb428bac0bad\jetified-nativeimagefilters-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\8d92b9f36935f96af116eb428bac0bad\jetified-nativeimagefilters-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\b0667bed41ea98264781050881953d18\jetified-imagepipeline-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\b0667bed41ea98264781050881953d18\jetified-imagepipeline-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\c4f8b73161248c417d08d3e1f97798f9\jetified-nativeimagetranscoder-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\c4f8b73161248c417d08d3e1f97798f9\jetified-nativeimagetranscoder-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\cdc721874eba081f1a6f40f32ca0a695\jetified-imagepipeline-base-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\cdc721874eba081f1a6f40f32ca0a695\jetified-imagepipeline-base-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\8856c11dcbf7ec981d13ca0448a35bce\jetified-soloader-0.6.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\8856c11dcbf7ec981d13ca0448a35bce\jetified-soloader-0.6.0\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\819cc7e09f6444dd20887671ceeff5a5\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\819cc7e09f6444dd20887671ceeff5a5\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\0a96ccacd83ef57b384579b91131b502\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\0a96ccacd83ef57b384579b91131b502\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\e21fbc3bb303474eb9cd3fb2d5fe27ab\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\e21fbc3bb303474eb9cd3fb2d5fe27ab\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.1.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\b1e592b267969a8b2c23e7616289b47d\transition-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.1.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\b1e592b267969a8b2c23e7616289b47d\transition-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\960c5ec4ecfbb065c030eb0f6afd3350\jetified-play-services-auth-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\960c5ec4ecfbb065c030eb0f6afd3350\jetified-play-services-auth-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\063724d048fce328eec950c13a6b4945\jetified-play-services-auth-api-phone-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\063724d048fce328eec950c13a6b4945\jetified-play-services-auth-api-phone-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\a78cd121f27a36cf08d7e8e4215b85c6\jetified-play-services-auth-base-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\a78cd121f27a36cf08d7e8e4215b85c6\jetified-play-services-auth-base-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth:19.1.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\e46d47395917dc0704da2fa7de7be917\jetified-firebase-auth-19.1.0\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:19.1.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\e46d47395917dc0704da2fa7de7be917\jetified-firebase-auth-19.1.0\AndroidManifest.xml:21:5-44
+MERGED from [com.google.android.gms:play-services-location:15.0.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\95c182ad97387117824ecbc6e222366d\jetified-play-services-location-15.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:15.0.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\95c182ad97387117824ecbc6e222366d\jetified-play-services-location-15.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-messaging:20.0.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\d3fae0810aa068b2e1d0e25ad79c0894\jetified-firebase-messaging-20.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:20.0.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\d3fae0810aa068b2e1d0e25ad79c0894\jetified-firebase-messaging-20.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\a0cc0041367d02a7abd90d79e75c64bd\jetified-firebase-auth-interop-18.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\a0cc0041367d02a7abd90d79e75c64bd\jetified-firebase-auth-interop-18.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:17.2.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\a098f7b9e1d6ddcbdd59fad34c969568\jetified-firebase-core-17.2.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:17.2.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\a098f7b9e1d6ddcbdd59fad34c969568\jetified-firebase-core-17.2.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:17.2.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\e2959cd1ed4778a2036a7f4765d6e4d3\jetified-firebase-analytics-17.2.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:17.2.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\e2959cd1ed4778a2036a7f4765d6e4d3\jetified-firebase-analytics-17.2.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\b45f5acd6c9c6e2090a64f7c846708a0\jetified-play-services-measurement-api-17.2.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\b45f5acd6c9c6e2090a64f7c846708a0\jetified-play-services-measurement-api-17.2.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:20.0.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\f2794ab560af19d3b55d22cd0adc574b\jetified-firebase-iid-20.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:20.0.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\f2794ab560af19d3b55d22cd0adc574b\jetified-firebase-iid-20.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\ae47015a2e4aba120729f3d9634167eb\jetified-firebase-iid-interop-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\ae47015a2e4aba120729f3d9634167eb\jetified-firebase-iid-interop-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\ed3502c450364bc84887a8ec2548cdfb\jetified-play-services-base-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\ed3502c450364bc84887a8ec2548cdfb\jetified-play-services-base-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:19.2.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\cc72197cb83e4adcd7d8d0b2b076c6c1\jetified-firebase-common-19.2.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-common:19.2.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\cc72197cb83e4adcd7d8d0b2b076c6c1\jetified-firebase-common-19.2.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\d3bf3a1c30f65af0e34f97891da0ef60\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\d3bf3a1c30f65af0e34f97891da0ef60\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\38c6dd8f1a46165fbe7184a4069c9c1b\jetified-play-services-places-placereport-15.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\38c6dd8f1a46165fbe7184a4069c9c1b\jetified-play-services-places-placereport-15.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\06cd6cb6b50d53b568e50b92d1c91c11\jetified-firebase-measurement-connector-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\06cd6cb6b50d53b568e50b92d1c91c11\jetified-firebase-measurement-connector-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\5492155b9c669fe5085f08e44463cbb8\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\5492155b9c669fe5085f08e44463cbb8\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\bebb86a540b79d2abbe56bba3d9c837c\jetified-play-services-measurement-sdk-17.2.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\bebb86a540b79d2abbe56bba3d9c837c\jetified-play-services-measurement-sdk-17.2.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\42e35f8fda90bec235947c3aeedaf8b4\jetified-play-services-measurement-impl-17.2.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\42e35f8fda90bec235947c3aeedaf8b4\jetified-play-services-measurement-impl-17.2.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\51b249292cd9be39d99ca5bcc3280966\jetified-play-services-stats-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\51b249292cd9be39d99ca5bcc3280966\jetified-play-services-stats-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\b10133063e45ca5c1ae025ee87529e00\jetified-play-services-measurement-sdk-api-17.2.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\b10133063e45ca5c1ae025ee87529e00\jetified-play-services-measurement-sdk-api-17.2.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\7a42dbea86ef44b63f91580ab962ea35\jetified-play-services-measurement-base-17.2.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\7a42dbea86ef44b63f91580ab962ea35\jetified-play-services-measurement-base-17.2.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\5e95c4fec77aca378a06beddb04866d7\jetified-play-services-ads-identifier-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\5e95c4fec77aca378a06beddb04866d7\jetified-play-services-ads-identifier-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\e949ecdb5e7797625d085bcf76965b03\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\e949ecdb5e7797625d085bcf76965b03\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\bc4ee94a095795a89c7d60010c54243f\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\bc4ee94a095795a89c7d60010c54243f\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\50186ee8f2980bae9a5688b37a10b28d\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\50186ee8f2980bae9a5688b37a10b28d\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.android:facebook-core:5.15.3] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\8ef3121320128ee0c98eeb14afcf7413\jetified-facebook-core-5.15.3\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:5.15.3] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\8ef3121320128ee0c98eeb14afcf7413\jetified-facebook-core-5.15.3\AndroidManifest.xml:24:5-26:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\00f8f3ac4cff477825623c16d2141a2b\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\00f8f3ac4cff477825623c16d2141a2b\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\c252f288fb6c9b3c5c42a50fd7a6f2c0\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\c252f288fb6c9b3c5c42a50fd7a6f2c0\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\2bc275a6fadce3206523ec7bb8b2fc33\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\2bc275a6fadce3206523ec7bb8b2fc33\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\128e6b4b24fd0e06e6f992a87056f280\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\128e6b4b24fd0e06e6f992a87056f280\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\e08ee0974742b7d7341fe0729617f16a\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\e08ee0974742b7d7341fe0729617f16a\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\f83f229b459c6503c8f409a6bd829d72\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\f83f229b459c6503c8f409a6bd829d72\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\e67737094954067c5cc2920970d9348f\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\e67737094954067c5cc2920970d9348f\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\c0ca7360b05c2e67f9d078f3e8055cc9\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\c0ca7360b05c2e67f9d078f3e8055cc9\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\199d07d70a1f043ec71b1b1da86d5f15\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\199d07d70a1f043ec71b1b1da86d5f15\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\97dd23b9dfa7eaa28bd6529f19a39564\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\97dd23b9dfa7eaa28bd6529f19a39564\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.0-beta01] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\e943c028c65c58c73d497d9b40bd01b3\core-1.3.0-beta01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.0-beta01] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\e943c028c65c58c73d497d9b40bd01b3\core-1.3.0-beta01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\799f5191d034fa788883b4169b9a1c04\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\799f5191d034fa788883b4169b9a1c04\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\f42ca2f21be3e184fd93b3de2c6cafa3\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\f42ca2f21be3e184fd93b3de2c6cafa3\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\e092ce1a9ae5c9a701252fd183ec39b7\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\e092ce1a9ae5c9a701252fd183ec39b7\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\3c7e4399e112e13187c0d082c31b6f1f\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\3c7e4399e112e13187c0d082c31b6f1f\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\177b3489fdc89247aaa2446c4d006309\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\177b3489fdc89247aaa2446c4d006309\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\9ebf1b4e87332250004e328b2a97ab08\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\9ebf1b4e87332250004e328b2a97ab08\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\72133d0160fd1f5ca5a39f11c524d082\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\72133d0160fd1f5ca5a39f11c524d082\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\d0d3cded714ac9bc3cbd046568664fcd\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\d0d3cded714ac9bc3cbd046568664fcd\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\28f7e396efe6d3de42b1a3a640a76551\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\28f7e396efe6d3de42b1a3a640a76551\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\8bf2f12de099ce6488834c0351128d52\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\8bf2f12de099ce6488834c0351128d52\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\f62edf6b30025870309420d743344b52\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\f62edf6b30025870309420d743344b52\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\254f4f53d13320bf8e163af1f23ba689\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\254f4f53d13320bf8e163af1f23ba689\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.yqritc:android-scalablevideoview:1.0.4] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\756ef159987a9849c6b5053d058a7eb5\jetified-android-scalablevideoview-1.0.4\AndroidManifest.xml:8:5-10:41
+MERGED from [com.yqritc:android-scalablevideoview:1.0.4] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\756ef159987a9849c6b5053d058a7eb5\jetified-android-scalablevideoview-1.0.4\AndroidManifest.xml:8:5-10:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\7ffc7b91f1a7252f3b598593a12934c3\jetified-fbcore-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\7ffc7b91f1a7252f3b598593a12934c3\jetified-fbcore-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.installreferrer:installreferrer:1.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\64364f815434e55f9373b0df795a7bab\jetified-installreferrer-1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.installreferrer:installreferrer:1.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\64364f815434e55f9373b0df795a7bab\jetified-installreferrer-1.0\AndroidManifest.xml:5:5-7:41
+INJECTED from D:\documentos2\Git\YoDepend\android\app\src\debug\AndroidManifest.xml
+INJECTED from D:\documentos2\Git\YoDepend\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\documentos2\Git\YoDepend\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\documentos2\Git\YoDepend\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\documentos2\Git\YoDepend\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\documentos2\Git\YoDepend\android\app\src\debug\AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from D:\documentos2\Git\YoDepend\android\app\src\debug\AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from D:\documentos2\Git\YoDepend\android\app\src\debug\AndroidManifest.xml:5:22-75
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:@react-native-firebase_auth] D:\documentos2\Git\YoDepend\node_modules\@react-native-firebase\auth\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-68
+MERGED from [com.onesignal:OneSignal:3.12.5] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\3c0861acda4d6f51fc05ce5106e9827c\jetified-OneSignal-3.12.5\AndroidManifest.xml:18:5-68
+MERGED from [com.onesignal:OneSignal:3.12.5] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\3c0861acda4d6f51fc05ce5106e9827c\jetified-OneSignal-3.12.5\AndroidManifest.xml:18:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\b45f5acd6c9c6e2090a64f7c846708a0\jetified-play-services-measurement-api-17.2.1\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\b45f5acd6c9c6e2090a64f7c846708a0\jetified-play-services-measurement-api-17.2.1\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:20.0.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\f2794ab560af19d3b55d22cd0adc574b\jetified-firebase-iid-20.0.1\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:20.0.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\f2794ab560af19d3b55d22cd0adc574b\jetified-firebase-iid-20.0.1\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\5492155b9c669fe5085f08e44463cbb8\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\5492155b9c669fe5085f08e44463cbb8\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\42e35f8fda90bec235947c3aeedaf8b4\jetified-play-services-measurement-impl-17.2.1\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\42e35f8fda90bec235947c3aeedaf8b4\jetified-play-services-measurement-impl-17.2.1\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\b10133063e45ca5c1ae025ee87529e00\jetified-play-services-measurement-sdk-api-17.2.1\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\b10133063e45ca5c1ae025ee87529e00\jetified-play-services-measurement-sdk-api-17.2.1\AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [:@react-native-firebase_auth] D:\documentos2\Git\YoDepend\node_modules\@react-native-firebase\auth\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:@react-native-firebase_auth] D:\documentos2\Git\YoDepend\node_modules\@react-native-firebase\auth\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:5-79
+MERGED from [:@react-native-community_netinfo] D:\documentos2\Git\YoDepend\node_modules\@react-native-community\netinfo\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-79
+MERGED from [:@react-native-community_netinfo] D:\documentos2\Git\YoDepend\node_modules\@react-native-community\netinfo\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-79
+MERGED from [com.onesignal:OneSignal:3.12.5] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\3c0861acda4d6f51fc05ce5106e9827c\jetified-OneSignal-3.12.5\AndroidManifest.xml:24:5-79
+MERGED from [com.onesignal:OneSignal:3.12.5] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\3c0861acda4d6f51fc05ce5106e9827c\jetified-OneSignal-3.12.5\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\b45f5acd6c9c6e2090a64f7c846708a0\jetified-play-services-measurement-api-17.2.1\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\b45f5acd6c9c6e2090a64f7c846708a0\jetified-play-services-measurement-api-17.2.1\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-iid:20.0.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\f2794ab560af19d3b55d22cd0adc574b\jetified-firebase-iid-20.0.1\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:20.0.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\f2794ab560af19d3b55d22cd0adc574b\jetified-firebase-iid-20.0.1\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\5492155b9c669fe5085f08e44463cbb8\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\5492155b9c669fe5085f08e44463cbb8\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\42e35f8fda90bec235947c3aeedaf8b4\jetified-play-services-measurement-impl-17.2.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\42e35f8fda90bec235947c3aeedaf8b4\jetified-play-services-measurement-impl-17.2.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\b10133063e45ca5c1ae025ee87529e00\jetified-play-services-measurement-sdk-api-17.2.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\b10133063e45ca5c1ae025ee87529e00\jetified-play-services-measurement-sdk-api-17.2.1\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [:@react-native-firebase_auth] D:\documentos2\Git\YoDepend\node_modules\@react-native-firebase\auth\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [:@react-native-community_netinfo] D:\documentos2\Git\YoDepend\node_modules\@react-native-community\netinfo\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:10:5-76
+	android:name
+		ADDED from [:@react-native-community_netinfo] D:\documentos2\Git\YoDepend\node_modules\@react-native-community\netinfo\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:10:22-73
+provider#com.reactnativecommunity.webview.RNCWebViewFileProvider
+ADDED from [:react-native-webview] D:\documentos2\Git\YoDepend\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:9-20:20
+	android:grantUriPermissions
+		ADDED from [:react-native-webview] D:\documentos2\Git\YoDepend\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:13-47
+	android:authorities
+		ADDED from [:react-native-webview] D:\documentos2\Git\YoDepend\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-64
+	android:exported
+		ADDED from [:react-native-webview] D:\documentos2\Git\YoDepend\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [:react-native-webview] D:\documentos2\Git\YoDepend\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-83
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:react-native-webview] D:\documentos2\Git\YoDepend\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:13-19:63
+	android:resource
+		ADDED from [:react-native-webview] D:\documentos2\Git\YoDepend\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:19:17-60
+	android:name
+		ADDED from [:react-native-webview] D:\documentos2\Git\YoDepend\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:17-67
+activity#com.facebook.FacebookActivity
+ADDED from [com.facebook.android:facebook-common:5.15.3] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\09593e23d374d85455604c933a0b501f\jetified-facebook-common-5.15.3\AndroidManifest.xml:30:9-33:66
+	android:configChanges
+		ADDED from [com.facebook.android:facebook-common:5.15.3] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\09593e23d374d85455604c933a0b501f\jetified-facebook-common-5.15.3\AndroidManifest.xml:32:13-96
+	android:theme
+		ADDED from [com.facebook.android:facebook-common:5.15.3] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\09593e23d374d85455604c933a0b501f\jetified-facebook-common-5.15.3\AndroidManifest.xml:33:13-63
+	android:name
+		ADDED from [com.facebook.android:facebook-common:5.15.3] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\09593e23d374d85455604c933a0b501f\jetified-facebook-common-5.15.3\AndroidManifest.xml:31:13-57
+activity#com.facebook.CustomTabMainActivity
+ADDED from [com.facebook.android:facebook-common:5.15.3] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\09593e23d374d85455604c933a0b501f\jetified-facebook-common-5.15.3\AndroidManifest.xml:34:9-71
+	android:name
+		ADDED from [com.facebook.android:facebook-common:5.15.3] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\09593e23d374d85455604c933a0b501f\jetified-facebook-common-5.15.3\AndroidManifest.xml:34:19-68
+activity#com.facebook.CustomTabActivity
+ADDED from [com.facebook.android:facebook-common:5.15.3] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\09593e23d374d85455604c933a0b501f\jetified-facebook-common-5.15.3\AndroidManifest.xml:35:9-49:20
+	tools:node
+		ADDED from [com.facebook.android:facebook-common:5.15.3] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\09593e23d374d85455604c933a0b501f\jetified-facebook-common-5.15.3\AndroidManifest.xml:38:13-31
+	android:exported
+		ADDED from [com.facebook.android:facebook-common:5.15.3] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\09593e23d374d85455604c933a0b501f\jetified-facebook-common-5.15.3\AndroidManifest.xml:37:13-36
+	android:name
+		ADDED from [com.facebook.android:facebook-common:5.15.3] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\09593e23d374d85455604c933a0b501f\jetified-facebook-common-5.15.3\AndroidManifest.xml:36:13-58
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:cct.${applicationId}+data:scheme:fbconnect
+ADDED from [com.facebook.android:facebook-common:5.15.3] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\09593e23d374d85455604c933a0b501f\jetified-facebook-common-5.15.3\AndroidManifest.xml:39:13-48:29
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:cct.com.yodependo+data:scheme:fbconnect
+ADDED from [com.facebook.android:facebook-common:5.15.3] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\09593e23d374d85455604c933a0b501f\jetified-facebook-common-5.15.3\AndroidManifest.xml:39:13-48:29
+action#android.intent.action.VIEW
+ADDED from [com.facebook.android:facebook-common:5.15.3] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\09593e23d374d85455604c933a0b501f\jetified-facebook-common-5.15.3\AndroidManifest.xml:40:17-69
+	android:name
+		ADDED from [com.facebook.android:facebook-common:5.15.3] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\09593e23d374d85455604c933a0b501f\jetified-facebook-common-5.15.3\AndroidManifest.xml:40:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.facebook.android:facebook-common:5.15.3] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\09593e23d374d85455604c933a0b501f\jetified-facebook-common-5.15.3\AndroidManifest.xml:42:17-76
+	android:name
+		ADDED from [com.facebook.android:facebook-common:5.15.3] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\09593e23d374d85455604c933a0b501f\jetified-facebook-common-5.15.3\AndroidManifest.xml:42:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.facebook.android:facebook-common:5.15.3] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\09593e23d374d85455604c933a0b501f\jetified-facebook-common-5.15.3\AndroidManifest.xml:43:17-78
+	android:name
+		ADDED from [com.facebook.android:facebook-common:5.15.3] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\09593e23d374d85455604c933a0b501f\jetified-facebook-common-5.15.3\AndroidManifest.xml:43:27-75
+data
+ADDED from [com.facebook.android:facebook-common:5.15.3] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\09593e23d374d85455604c933a0b501f\jetified-facebook-common-5.15.3\AndroidManifest.xml:45:17-47:50
+	android:host
+		ADDED from [com.facebook.android:facebook-common:5.15.3] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\09593e23d374d85455604c933a0b501f\jetified-facebook-common-5.15.3\AndroidManifest.xml:46:21-56
+	android:scheme
+		ADDED from [com.facebook.android:facebook-common:5.15.3] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\09593e23d374d85455604c933a0b501f\jetified-facebook-common-5.15.3\AndroidManifest.xml:47:21-47
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.onesignal:OneSignal:3.12.5] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\3c0861acda4d6f51fc05ce5106e9827c\jetified-OneSignal-3.12.5\AndroidManifest.xml:7:5-9:47
+	android:protectionLevel
+		ADDED from [com.onesignal:OneSignal:3.12.5] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\3c0861acda4d6f51fc05ce5106e9827c\jetified-OneSignal-3.12.5\AndroidManifest.xml:9:9-44
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.12.5] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\3c0861acda4d6f51fc05ce5106e9827c\jetified-OneSignal-3.12.5\AndroidManifest.xml:8:9-63
+permission#com.yodependo.permission.C2D_MESSAGE
+ADDED from [com.onesignal:OneSignal:3.12.5] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\3c0861acda4d6f51fc05ce5106e9827c\jetified-OneSignal-3.12.5\AndroidManifest.xml:7:5-9:47
+	android:protectionLevel
+		ADDED from [com.onesignal:OneSignal:3.12.5] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\3c0861acda4d6f51fc05ce5106e9827c\jetified-OneSignal-3.12.5\AndroidManifest.xml:9:9-44
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.12.5] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\3c0861acda4d6f51fc05ce5106e9827c\jetified-OneSignal-3.12.5\AndroidManifest.xml:8:9-63
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.onesignal:OneSignal:3.12.5] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\3c0861acda4d6f51fc05ce5106e9827c\jetified-OneSignal-3.12.5\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.12.5] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\3c0861acda4d6f51fc05ce5106e9827c\jetified-OneSignal-3.12.5\AndroidManifest.xml:11:22-76
+uses-permission#com.yodependo.permission.C2D_MESSAGE
+ADDED from [com.onesignal:OneSignal:3.12.5] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\3c0861acda4d6f51fc05ce5106e9827c\jetified-OneSignal-3.12.5\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.12.5] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\3c0861acda4d6f51fc05ce5106e9827c\jetified-OneSignal-3.12.5\AndroidManifest.xml:11:22-76
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.onesignal:OneSignal:3.12.5] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\3c0861acda4d6f51fc05ce5106e9827c\jetified-OneSignal-3.12.5\AndroidManifest.xml:17:5-82
+MERGED from [com.google.firebase:firebase-iid:20.0.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\f2794ab560af19d3b55d22cd0adc574b\jetified-firebase-iid-20.0.1\AndroidManifest.xml:26:5-82
+MERGED from [com.google.firebase:firebase-iid:20.0.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\f2794ab560af19d3b55d22cd0adc574b\jetified-firebase-iid-20.0.1\AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.12.5] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\3c0861acda4d6f51fc05ce5106e9827c\jetified-OneSignal-3.12.5\AndroidManifest.xml:17:22-79
+uses-permission#android.permission.VIBRATE
+ADDED from [com.onesignal:OneSignal:3.12.5] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\3c0861acda4d6f51fc05ce5106e9827c\jetified-OneSignal-3.12.5\AndroidManifest.xml:23:5-66
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.12.5] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\3c0861acda4d6f51fc05ce5106e9827c\jetified-OneSignal-3.12.5\AndroidManifest.xml:23:22-63
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [com.onesignal:OneSignal:3.12.5] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\3c0861acda4d6f51fc05ce5106e9827c\jetified-OneSignal-3.12.5\AndroidManifest.xml:29:5-81
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.12.5] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\3c0861acda4d6f51fc05ce5106e9827c\jetified-OneSignal-3.12.5\AndroidManifest.xml:29:22-78
+uses-permission#com.sec.android.provider.badge.permission.READ
+ADDED from [com.onesignal:OneSignal:3.12.5] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\3c0861acda4d6f51fc05ce5106e9827c\jetified-OneSignal-3.12.5\AndroidManifest.xml:31:5-86
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.12.5] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\3c0861acda4d6f51fc05ce5106e9827c\jetified-OneSignal-3.12.5\AndroidManifest.xml:31:22-83
+uses-permission#com.sec.android.provider.badge.permission.WRITE
+ADDED from [com.onesignal:OneSignal:3.12.5] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\3c0861acda4d6f51fc05ce5106e9827c\jetified-OneSignal-3.12.5\AndroidManifest.xml:32:5-87
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.12.5] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\3c0861acda4d6f51fc05ce5106e9827c\jetified-OneSignal-3.12.5\AndroidManifest.xml:32:22-84
+uses-permission#com.htc.launcher.permission.READ_SETTINGS
+ADDED from [com.onesignal:OneSignal:3.12.5] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\3c0861acda4d6f51fc05ce5106e9827c\jetified-OneSignal-3.12.5\AndroidManifest.xml:33:5-81
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.12.5] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\3c0861acda4d6f51fc05ce5106e9827c\jetified-OneSignal-3.12.5\AndroidManifest.xml:33:22-78
+uses-permission#com.htc.launcher.permission.UPDATE_SHORTCUT
+ADDED from [com.onesignal:OneSignal:3.12.5] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\3c0861acda4d6f51fc05ce5106e9827c\jetified-OneSignal-3.12.5\AndroidManifest.xml:34:5-83
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.12.5] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\3c0861acda4d6f51fc05ce5106e9827c\jetified-OneSignal-3.12.5\AndroidManifest.xml:34:22-80
+uses-permission#com.sonyericsson.home.permission.BROADCAST_BADGE
+ADDED from [com.onesignal:OneSignal:3.12.5] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\3c0861acda4d6f51fc05ce5106e9827c\jetified-OneSignal-3.12.5\AndroidManifest.xml:35:5-88
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.12.5] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\3c0861acda4d6f51fc05ce5106e9827c\jetified-OneSignal-3.12.5\AndroidManifest.xml:35:22-85
+uses-permission#com.sonymobile.home.permission.PROVIDER_INSERT_BADGE
+ADDED from [com.onesignal:OneSignal:3.12.5] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\3c0861acda4d6f51fc05ce5106e9827c\jetified-OneSignal-3.12.5\AndroidManifest.xml:36:5-92
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.12.5] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\3c0861acda4d6f51fc05ce5106e9827c\jetified-OneSignal-3.12.5\AndroidManifest.xml:36:22-89
+uses-permission#com.anddoes.launcher.permission.UPDATE_COUNT
+ADDED from [com.onesignal:OneSignal:3.12.5] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\3c0861acda4d6f51fc05ce5106e9827c\jetified-OneSignal-3.12.5\AndroidManifest.xml:37:5-84
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.12.5] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\3c0861acda4d6f51fc05ce5106e9827c\jetified-OneSignal-3.12.5\AndroidManifest.xml:37:22-81
+uses-permission#com.majeur.launcher.permission.UPDATE_BADGE
+ADDED from [com.onesignal:OneSignal:3.12.5] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\3c0861acda4d6f51fc05ce5106e9827c\jetified-OneSignal-3.12.5\AndroidManifest.xml:38:5-83
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.12.5] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\3c0861acda4d6f51fc05ce5106e9827c\jetified-OneSignal-3.12.5\AndroidManifest.xml:38:22-80
+uses-permission#com.huawei.android.launcher.permission.CHANGE_BADGE
+ADDED from [com.onesignal:OneSignal:3.12.5] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\3c0861acda4d6f51fc05ce5106e9827c\jetified-OneSignal-3.12.5\AndroidManifest.xml:39:5-91
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.12.5] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\3c0861acda4d6f51fc05ce5106e9827c\jetified-OneSignal-3.12.5\AndroidManifest.xml:39:22-88
+uses-permission#com.huawei.android.launcher.permission.READ_SETTINGS
+ADDED from [com.onesignal:OneSignal:3.12.5] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\3c0861acda4d6f51fc05ce5106e9827c\jetified-OneSignal-3.12.5\AndroidManifest.xml:40:5-92
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.12.5] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\3c0861acda4d6f51fc05ce5106e9827c\jetified-OneSignal-3.12.5\AndroidManifest.xml:40:22-89
+uses-permission#com.huawei.android.launcher.permission.WRITE_SETTINGS
+ADDED from [com.onesignal:OneSignal:3.12.5] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\3c0861acda4d6f51fc05ce5106e9827c\jetified-OneSignal-3.12.5\AndroidManifest.xml:41:5-93
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.12.5] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\3c0861acda4d6f51fc05ce5106e9827c\jetified-OneSignal-3.12.5\AndroidManifest.xml:41:22-90
+uses-permission#android.permission.READ_APP_BADGE
+ADDED from [com.onesignal:OneSignal:3.12.5] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\3c0861acda4d6f51fc05ce5106e9827c\jetified-OneSignal-3.12.5\AndroidManifest.xml:42:5-73
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.12.5] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\3c0861acda4d6f51fc05ce5106e9827c\jetified-OneSignal-3.12.5\AndroidManifest.xml:42:22-70
+uses-permission#com.oppo.launcher.permission.READ_SETTINGS
+ADDED from [com.onesignal:OneSignal:3.12.5] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\3c0861acda4d6f51fc05ce5106e9827c\jetified-OneSignal-3.12.5\AndroidManifest.xml:43:5-82
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.12.5] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\3c0861acda4d6f51fc05ce5106e9827c\jetified-OneSignal-3.12.5\AndroidManifest.xml:43:22-79
+uses-permission#com.oppo.launcher.permission.WRITE_SETTINGS
+ADDED from [com.onesignal:OneSignal:3.12.5] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\3c0861acda4d6f51fc05ce5106e9827c\jetified-OneSignal-3.12.5\AndroidManifest.xml:44:5-83
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.12.5] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\3c0861acda4d6f51fc05ce5106e9827c\jetified-OneSignal-3.12.5\AndroidManifest.xml:44:22-80
+uses-permission#me.everything.badger.permission.BADGE_COUNT_READ
+ADDED from [com.onesignal:OneSignal:3.12.5] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\3c0861acda4d6f51fc05ce5106e9827c\jetified-OneSignal-3.12.5\AndroidManifest.xml:45:5-88
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.12.5] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\3c0861acda4d6f51fc05ce5106e9827c\jetified-OneSignal-3.12.5\AndroidManifest.xml:45:22-85
+uses-permission#me.everything.badger.permission.BADGE_COUNT_WRITE
+ADDED from [com.onesignal:OneSignal:3.12.5] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\3c0861acda4d6f51fc05ce5106e9827c\jetified-OneSignal-3.12.5\AndroidManifest.xml:46:5-89
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.12.5] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\3c0861acda4d6f51fc05ce5106e9827c\jetified-OneSignal-3.12.5\AndroidManifest.xml:46:22-86
+meta-data#onesignal_app_id
+ADDED from [com.onesignal:OneSignal:3.12.5] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\3c0861acda4d6f51fc05ce5106e9827c\jetified-OneSignal-3.12.5\AndroidManifest.xml:49:9-51:51
+	android:value
+		ADDED from [com.onesignal:OneSignal:3.12.5] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\3c0861acda4d6f51fc05ce5106e9827c\jetified-OneSignal-3.12.5\AndroidManifest.xml:51:13-48
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.12.5] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\3c0861acda4d6f51fc05ce5106e9827c\jetified-OneSignal-3.12.5\AndroidManifest.xml:50:13-44
+meta-data#onesignal_google_project_number
+ADDED from [com.onesignal:OneSignal:3.12.5] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\3c0861acda4d6f51fc05ce5106e9827c\jetified-OneSignal-3.12.5\AndroidManifest.xml:53:9-55:70
+	android:value
+		ADDED from [com.onesignal:OneSignal:3.12.5] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\3c0861acda4d6f51fc05ce5106e9827c\jetified-OneSignal-3.12.5\AndroidManifest.xml:55:13-67
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.12.5] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\3c0861acda4d6f51fc05ce5106e9827c\jetified-OneSignal-3.12.5\AndroidManifest.xml:54:13-59
+receiver#com.onesignal.GcmBroadcastReceiver
+ADDED from [com.onesignal:OneSignal:3.12.5] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\3c0861acda4d6f51fc05ce5106e9827c\jetified-OneSignal-3.12.5\AndroidManifest.xml:57:9-67:20
+	android:permission
+		ADDED from [com.onesignal:OneSignal:3.12.5] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\3c0861acda4d6f51fc05ce5106e9827c\jetified-OneSignal-3.12.5\AndroidManifest.xml:59:13-73
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.12.5] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\3c0861acda4d6f51fc05ce5106e9827c\jetified-OneSignal-3.12.5\AndroidManifest.xml:58:13-62
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:${applicationId}
+ADDED from [com.onesignal:OneSignal:3.12.5] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\3c0861acda4d6f51fc05ce5106e9827c\jetified-OneSignal-3.12.5\AndroidManifest.xml:62:13-66:29
+	android:priority
+		ADDED from [com.onesignal:OneSignal:3.12.5] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\3c0861acda4d6f51fc05ce5106e9827c\jetified-OneSignal-3.12.5\AndroidManifest.xml:62:28-50
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:com.yodependo
+ADDED from [com.onesignal:OneSignal:3.12.5] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\3c0861acda4d6f51fc05ce5106e9827c\jetified-OneSignal-3.12.5\AndroidManifest.xml:62:13-66:29
+	android:priority
+		ADDED from [com.onesignal:OneSignal:3.12.5] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\3c0861acda4d6f51fc05ce5106e9827c\jetified-OneSignal-3.12.5\AndroidManifest.xml:62:28-50
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.onesignal:OneSignal:3.12.5] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\3c0861acda4d6f51fc05ce5106e9827c\jetified-OneSignal-3.12.5\AndroidManifest.xml:63:17-81
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.12.5] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\3c0861acda4d6f51fc05ce5106e9827c\jetified-OneSignal-3.12.5\AndroidManifest.xml:63:25-78
+category#${applicationId}
+ADDED from [com.onesignal:OneSignal:3.12.5] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\3c0861acda4d6f51fc05ce5106e9827c\jetified-OneSignal-3.12.5\AndroidManifest.xml:65:17-61
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.12.5] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\3c0861acda4d6f51fc05ce5106e9827c\jetified-OneSignal-3.12.5\AndroidManifest.xml:65:27-58
+category#com.yodependo
+ADDED from [com.onesignal:OneSignal:3.12.5] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\3c0861acda4d6f51fc05ce5106e9827c\jetified-OneSignal-3.12.5\AndroidManifest.xml:65:17-61
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.12.5] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\3c0861acda4d6f51fc05ce5106e9827c\jetified-OneSignal-3.12.5\AndroidManifest.xml:65:27-58
+receiver#com.onesignal.NotificationOpenedReceiver
+ADDED from [com.onesignal:OneSignal:3.12.5] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\3c0861acda4d6f51fc05ce5106e9827c\jetified-OneSignal-3.12.5\AndroidManifest.xml:68:9-77
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.12.5] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\3c0861acda4d6f51fc05ce5106e9827c\jetified-OneSignal-3.12.5\AndroidManifest.xml:68:19-74
+service#com.onesignal.GcmIntentService
+ADDED from [com.onesignal:OneSignal:3.12.5] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\3c0861acda4d6f51fc05ce5106e9827c\jetified-OneSignal-3.12.5\AndroidManifest.xml:70:9-66
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.12.5] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\3c0861acda4d6f51fc05ce5106e9827c\jetified-OneSignal-3.12.5\AndroidManifest.xml:70:18-63
+service#com.onesignal.GcmIntentJobService
+ADDED from [com.onesignal:OneSignal:3.12.5] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\3c0861acda4d6f51fc05ce5106e9827c\jetified-OneSignal-3.12.5\AndroidManifest.xml:71:9-73:72
+	android:permission
+		ADDED from [com.onesignal:OneSignal:3.12.5] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\3c0861acda4d6f51fc05ce5106e9827c\jetified-OneSignal-3.12.5\AndroidManifest.xml:73:13-69
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.12.5] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\3c0861acda4d6f51fc05ce5106e9827c\jetified-OneSignal-3.12.5\AndroidManifest.xml:72:13-61
+service#com.onesignal.RestoreJobService
+ADDED from [com.onesignal:OneSignal:3.12.5] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\3c0861acda4d6f51fc05ce5106e9827c\jetified-OneSignal-3.12.5\AndroidManifest.xml:74:9-76:72
+	android:permission
+		ADDED from [com.onesignal:OneSignal:3.12.5] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\3c0861acda4d6f51fc05ce5106e9827c\jetified-OneSignal-3.12.5\AndroidManifest.xml:76:13-69
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.12.5] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\3c0861acda4d6f51fc05ce5106e9827c\jetified-OneSignal-3.12.5\AndroidManifest.xml:75:13-59
+service#com.onesignal.RestoreKickoffJobService
+ADDED from [com.onesignal:OneSignal:3.12.5] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\3c0861acda4d6f51fc05ce5106e9827c\jetified-OneSignal-3.12.5\AndroidManifest.xml:77:9-79:72
+	android:permission
+		ADDED from [com.onesignal:OneSignal:3.12.5] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\3c0861acda4d6f51fc05ce5106e9827c\jetified-OneSignal-3.12.5\AndroidManifest.xml:79:13-69
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.12.5] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\3c0861acda4d6f51fc05ce5106e9827c\jetified-OneSignal-3.12.5\AndroidManifest.xml:78:13-66
+service#com.onesignal.SyncService
+ADDED from [com.onesignal:OneSignal:3.12.5] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\3c0861acda4d6f51fc05ce5106e9827c\jetified-OneSignal-3.12.5\AndroidManifest.xml:80:9-82:43
+	android:stopWithTask
+		ADDED from [com.onesignal:OneSignal:3.12.5] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\3c0861acda4d6f51fc05ce5106e9827c\jetified-OneSignal-3.12.5\AndroidManifest.xml:82:13-40
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.12.5] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\3c0861acda4d6f51fc05ce5106e9827c\jetified-OneSignal-3.12.5\AndroidManifest.xml:81:13-53
+service#com.onesignal.SyncJobService
+ADDED from [com.onesignal:OneSignal:3.12.5] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\3c0861acda4d6f51fc05ce5106e9827c\jetified-OneSignal-3.12.5\AndroidManifest.xml:83:9-85:72
+	android:permission
+		ADDED from [com.onesignal:OneSignal:3.12.5] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\3c0861acda4d6f51fc05ce5106e9827c\jetified-OneSignal-3.12.5\AndroidManifest.xml:85:13-69
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.12.5] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\3c0861acda4d6f51fc05ce5106e9827c\jetified-OneSignal-3.12.5\AndroidManifest.xml:84:13-56
+activity#com.onesignal.PermissionsActivity
+ADDED from [com.onesignal:OneSignal:3.12.5] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\3c0861acda4d6f51fc05ce5106e9827c\jetified-OneSignal-3.12.5\AndroidManifest.xml:87:9-89:75
+	android:theme
+		ADDED from [com.onesignal:OneSignal:3.12.5] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\3c0861acda4d6f51fc05ce5106e9827c\jetified-OneSignal-3.12.5\AndroidManifest.xml:89:13-72
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.12.5] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\3c0861acda4d6f51fc05ce5106e9827c\jetified-OneSignal-3.12.5\AndroidManifest.xml:88:13-61
+service#com.onesignal.NotificationRestoreService
+ADDED from [com.onesignal:OneSignal:3.12.5] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\3c0861acda4d6f51fc05ce5106e9827c\jetified-OneSignal-3.12.5\AndroidManifest.xml:91:9-76
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.12.5] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\3c0861acda4d6f51fc05ce5106e9827c\jetified-OneSignal-3.12.5\AndroidManifest.xml:91:18-73
+receiver#com.onesignal.BootUpReceiver
+ADDED from [com.onesignal:OneSignal:3.12.5] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\3c0861acda4d6f51fc05ce5106e9827c\jetified-OneSignal-3.12.5\AndroidManifest.xml:93:9-98:20
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.12.5] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\3c0861acda4d6f51fc05ce5106e9827c\jetified-OneSignal-3.12.5\AndroidManifest.xml:93:19-62
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.QUICKBOOT_POWERON
+ADDED from [com.onesignal:OneSignal:3.12.5] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\3c0861acda4d6f51fc05ce5106e9827c\jetified-OneSignal-3.12.5\AndroidManifest.xml:94:13-97:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [com.onesignal:OneSignal:3.12.5] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\3c0861acda4d6f51fc05ce5106e9827c\jetified-OneSignal-3.12.5\AndroidManifest.xml:95:17-79
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.12.5] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\3c0861acda4d6f51fc05ce5106e9827c\jetified-OneSignal-3.12.5\AndroidManifest.xml:95:25-76
+action#android.intent.action.QUICKBOOT_POWERON
+ADDED from [com.onesignal:OneSignal:3.12.5] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\3c0861acda4d6f51fc05ce5106e9827c\jetified-OneSignal-3.12.5\AndroidManifest.xml:96:17-82
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.12.5] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\3c0861acda4d6f51fc05ce5106e9827c\jetified-OneSignal-3.12.5\AndroidManifest.xml:96:25-79
+receiver#com.onesignal.UpgradeReceiver
+ADDED from [com.onesignal:OneSignal:3.12.5] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\3c0861acda4d6f51fc05ce5106e9827c\jetified-OneSignal-3.12.5\AndroidManifest.xml:99:9-103:20
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.12.5] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\3c0861acda4d6f51fc05ce5106e9827c\jetified-OneSignal-3.12.5\AndroidManifest.xml:99:19-63
+intent-filter#action:name:android.intent.action.MY_PACKAGE_REPLACED
+ADDED from [com.onesignal:OneSignal:3.12.5] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\3c0861acda4d6f51fc05ce5106e9827c\jetified-OneSignal-3.12.5\AndroidManifest.xml:100:13-102:29
+action#android.intent.action.MY_PACKAGE_REPLACED
+ADDED from [com.onesignal:OneSignal:3.12.5] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\3c0861acda4d6f51fc05ce5106e9827c\jetified-OneSignal-3.12.5\AndroidManifest.xml:101:17-84
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.12.5] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\3c0861acda4d6f51fc05ce5106e9827c\jetified-OneSignal-3.12.5\AndroidManifest.xml:101:25-81
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\960c5ec4ecfbb065c030eb0f6afd3350\jetified-play-services-auth-17.0.0\AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\960c5ec4ecfbb065c030eb0f6afd3350\jetified-play-services-auth-17.0.0\AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\960c5ec4ecfbb065c030eb0f6afd3350\jetified-play-services-auth-17.0.0\AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\960c5ec4ecfbb065c030eb0f6afd3350\jetified-play-services-auth-17.0.0\AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\960c5ec4ecfbb065c030eb0f6afd3350\jetified-play-services-auth-17.0.0\AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\960c5ec4ecfbb065c030eb0f6afd3350\jetified-play-services-auth-17.0.0\AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\960c5ec4ecfbb065c030eb0f6afd3350\jetified-play-services-auth-17.0.0\AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\960c5ec4ecfbb065c030eb0f6afd3350\jetified-play-services-auth-17.0.0\AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\960c5ec4ecfbb065c030eb0f6afd3350\jetified-play-services-auth-17.0.0\AndroidManifest.xml:34:13-89
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:19.1.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\e46d47395917dc0704da2fa7de7be917\jetified-firebase-auth-19.1.0\AndroidManifest.xml:24:9-31:50
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:19.1.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\e46d47395917dc0704da2fa7de7be917\jetified-firebase-auth-19.1.0\AndroidManifest.xml:26:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:19.1.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\e46d47395917dc0704da2fa7de7be917\jetified-firebase-auth-19.1.0\AndroidManifest.xml:28:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:19.1.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\e46d47395917dc0704da2fa7de7be917\jetified-firebase-auth-19.1.0\AndroidManifest.xml:27:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:19.1.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\e46d47395917dc0704da2fa7de7be917\jetified-firebase-auth-19.1.0\AndroidManifest.xml:29:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:19.1.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\e46d47395917dc0704da2fa7de7be917\jetified-firebase-auth-19.1.0\AndroidManifest.xml:30:13-72
+	tools:replace
+		ADDED from [com.google.firebase:firebase-auth:19.1.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\e46d47395917dc0704da2fa7de7be917\jetified-firebase-auth-19.1.0\AndroidManifest.xml:31:13-47
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:19.1.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\e46d47395917dc0704da2fa7de7be917\jetified-firebase-auth-19.1.0\AndroidManifest.xml:25:13-85
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-auth:19.1.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\e46d47395917dc0704da2fa7de7be917\jetified-firebase-auth-19.1.0\AndroidManifest.xml:33:9-39:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\b45f5acd6c9c6e2090a64f7c846708a0\jetified-play-services-measurement-api-17.2.1\AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\b45f5acd6c9c6e2090a64f7c846708a0\jetified-play-services-measurement-api-17.2.1\AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.firebase:firebase-iid:20.0.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\f2794ab560af19d3b55d22cd0adc574b\jetified-firebase-iid-20.0.1\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:20.0.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\f2794ab560af19d3b55d22cd0adc574b\jetified-firebase-iid-20.0.1\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-common:19.2.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\cc72197cb83e4adcd7d8d0b2b076c6c1\jetified-firebase-common-19.2.0\AndroidManifest.xml:13:9-17:35
+MERGED from [com.google.firebase:firebase-common:19.2.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\cc72197cb83e4adcd7d8d0b2b076c6c1\jetified-firebase-common-19.2.0\AndroidManifest.xml:13:9-17:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:19.1.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\e46d47395917dc0704da2fa7de7be917\jetified-firebase-auth-19.1.0\AndroidManifest.xml:35:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:19.2.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\cc72197cb83e4adcd7d8d0b2b076c6c1\jetified-firebase-common-19.2.0\AndroidManifest.xml:17:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:19.2.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\cc72197cb83e4adcd7d8d0b2b076c6c1\jetified-firebase-common-19.2.0\AndroidManifest.xml:15:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:19.1.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\e46d47395917dc0704da2fa7de7be917\jetified-firebase-auth-19.1.0\AndroidManifest.xml:34:13-84
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:19.1.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\e46d47395917dc0704da2fa7de7be917\jetified-firebase-auth-19.1.0\AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:19.1.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\e46d47395917dc0704da2fa7de7be917\jetified-firebase-auth-19.1.0\AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:19.1.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\e46d47395917dc0704da2fa7de7be917\jetified-firebase-auth-19.1.0\AndroidManifest.xml:37:17-109
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:20.0.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\d3fae0810aa068b2e1d0e25ad79c0894\jetified-firebase-messaging-20.0.1\AndroidManifest.xml:28:9-34:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:20.0.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\d3fae0810aa068b2e1d0e25ad79c0894\jetified-firebase-messaging-20.0.1\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:20.0.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\d3fae0810aa068b2e1d0e25ad79c0894\jetified-firebase-messaging-20.0.1\AndroidManifest.xml:29:13-82
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:20.0.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\d3fae0810aa068b2e1d0e25ad79c0894\jetified-firebase-messaging-20.0.1\AndroidManifest.xml:31:13-33:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:20.0.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\d3fae0810aa068b2e1d0e25ad79c0894\jetified-firebase-messaging-20.0.1\AndroidManifest.xml:31:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:20.0.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\d3fae0810aa068b2e1d0e25ad79c0894\jetified-firebase-messaging-20.0.1\AndroidManifest.xml:32:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:20.0.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\d3fae0810aa068b2e1d0e25ad79c0894\jetified-firebase-messaging-20.0.1\AndroidManifest.xml:32:25-75
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:17.2.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\b45f5acd6c9c6e2090a64f7c846708a0\jetified-play-services-measurement-api-17.2.1\AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.2.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\b45f5acd6c9c6e2090a64f7c846708a0\jetified-play-services-measurement-api-17.2.1\AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.2.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\b45f5acd6c9c6e2090a64f7c846708a0\jetified-play-services-measurement-api-17.2.1\AndroidManifest.xml:31:17-139
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:20.0.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\f2794ab560af19d3b55d22cd0adc574b\jetified-firebase-iid-20.0.1\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:20.0.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\f2794ab560af19d3b55d22cd0adc574b\jetified-firebase-iid-20.0.1\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.0.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\f2794ab560af19d3b55d22cd0adc574b\jetified-firebase-iid-20.0.1\AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:20.0.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\f2794ab560af19d3b55d22cd0adc574b\jetified-firebase-iid-20.0.1\AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:20.0.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\f2794ab560af19d3b55d22cd0adc574b\jetified-firebase-iid-20.0.1\AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:20.0.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\f2794ab560af19d3b55d22cd0adc574b\jetified-firebase-iid-20.0.1\AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.0.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\f2794ab560af19d3b55d22cd0adc574b\jetified-firebase-iid-20.0.1\AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:20.0.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\f2794ab560af19d3b55d22cd0adc574b\jetified-firebase-iid-20.0.1\AndroidManifest.xml:41:13-43:29
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\ed3502c450364bc84887a8ec2548cdfb\jetified-play-services-base-17.1.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\ed3502c450364bc84887a8ec2548cdfb\jetified-play-services-base-17.1.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\ed3502c450364bc84887a8ec2548cdfb\jetified-play-services-base-17.1.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\ed3502c450364bc84887a8ec2548cdfb\jetified-play-services-base-17.1.0\AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:19.2.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\cc72197cb83e4adcd7d8d0b2b076c6c1\jetified-firebase-common-19.2.0\AndroidManifest.xml:19:9-23:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:19.2.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\cc72197cb83e4adcd7d8d0b2b076c6c1\jetified-firebase-common-19.2.0\AndroidManifest.xml:21:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:19.2.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\cc72197cb83e4adcd7d8d0b2b076c6c1\jetified-firebase-common-19.2.0\AndroidManifest.xml:22:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:19.2.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\cc72197cb83e4adcd7d8d0b2b076c6c1\jetified-firebase-common-19.2.0\AndroidManifest.xml:23:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.2.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\cc72197cb83e4adcd7d8d0b2b076c6c1\jetified-firebase-common-19.2.0\AndroidManifest.xml:20:13-77
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\5492155b9c669fe5085f08e44463cbb8\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\42e35f8fda90bec235947c3aeedaf8b4\jetified-play-services-measurement-impl-17.2.1\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\42e35f8fda90bec235947c3aeedaf8b4\jetified-play-services-measurement-impl-17.2.1\AndroidManifest.xml:26:5-110
+MERGED from [com.android.installreferrer:installreferrer:1.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\64364f815434e55f9373b0df795a7bab\jetified-installreferrer-1.0\AndroidManifest.xml:9:5-110
+MERGED from [com.android.installreferrer:installreferrer:1.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\64364f815434e55f9373b0df795a7bab\jetified-installreferrer-1.0\AndroidManifest.xml:9:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\5492155b9c669fe5085f08e44463cbb8\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\5492155b9c669fe5085f08e44463cbb8\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\5492155b9c669fe5085f08e44463cbb8\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\5492155b9c669fe5085f08e44463cbb8\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\5492155b9c669fe5085f08e44463cbb8\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\5492155b9c669fe5085f08e44463cbb8\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\42e35f8fda90bec235947c3aeedaf8b4\jetified-play-services-measurement-impl-17.2.1\AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\42e35f8fda90bec235947c3aeedaf8b4\jetified-play-services-measurement-impl-17.2.1\AndroidManifest.xml:29:9-37:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\5492155b9c669fe5085f08e44463cbb8\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\5492155b9c669fe5085f08e44463cbb8\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\5492155b9c669fe5085f08e44463cbb8\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\5492155b9c669fe5085f08e44463cbb8\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:35:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\5492155b9c669fe5085f08e44463cbb8\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\5492155b9c669fe5085f08e44463cbb8\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\5492155b9c669fe5085f08e44463cbb8\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\5492155b9c669fe5085f08e44463cbb8\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\5492155b9c669fe5085f08e44463cbb8\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\5492155b9c669fe5085f08e44463cbb8\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\5492155b9c669fe5085f08e44463cbb8\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\5492155b9c669fe5085f08e44463cbb8\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\5492155b9c669fe5085f08e44463cbb8\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\5492155b9c669fe5085f08e44463cbb8\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\5492155b9c669fe5085f08e44463cbb8\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\5492155b9c669fe5085f08e44463cbb8\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:49:13-87
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\e949ecdb5e7797625d085bcf76965b03\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\e949ecdb5e7797625d085bcf76965b03\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\e949ecdb5e7797625d085bcf76965b03\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+provider#com.facebook.internal.FacebookInitProvider
+ADDED from [com.facebook.android:facebook-core:5.15.3] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\8ef3121320128ee0c98eeb14afcf7413\jetified-facebook-core-5.15.3\AndroidManifest.xml:39:9-42:40
+	android:authorities
+		ADDED from [com.facebook.android:facebook-core:5.15.3] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\8ef3121320128ee0c98eeb14afcf7413\jetified-facebook-core-5.15.3\AndroidManifest.xml:41:13-72
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:5.15.3] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\8ef3121320128ee0c98eeb14afcf7413\jetified-facebook-core-5.15.3\AndroidManifest.xml:42:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:5.15.3] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\8ef3121320128ee0c98eeb14afcf7413\jetified-facebook-core-5.15.3\AndroidManifest.xml:40:13-70
+receiver#com.facebook.CurrentAccessTokenExpirationBroadcastReceiver
+ADDED from [com.facebook.android:facebook-core:5.15.3] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\8ef3121320128ee0c98eeb14afcf7413\jetified-facebook-core-5.15.3\AndroidManifest.xml:44:9-50:20
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:5.15.3] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\8ef3121320128ee0c98eeb14afcf7413\jetified-facebook-core-5.15.3\AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:5.15.3] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\8ef3121320128ee0c98eeb14afcf7413\jetified-facebook-core-5.15.3\AndroidManifest.xml:45:13-86
+intent-filter#action:name:com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:5.15.3] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\8ef3121320128ee0c98eeb14afcf7413\jetified-facebook-core-5.15.3\AndroidManifest.xml:47:13-49:29
+action#com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:5.15.3] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\8ef3121320128ee0c98eeb14afcf7413\jetified-facebook-core-5.15.3\AndroidManifest.xml:48:17-95
+	android:name
+		ADDED from [com.facebook.android:facebook-core:5.15.3] C:\Users\Sonia\.gradle\caches\transforms-2\files-2.1\8ef3121320128ee0c98eeb14afcf7413\jetified-facebook-core-5.15.3\AndroidManifest.xml:48:25-92
